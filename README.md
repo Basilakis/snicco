@@ -1,0 +1,2 @@
+This is a backup of the whole framework before the needed complete refactoring of the application core structure.
+We preserve this branch to have a reference to the old integration tests whose behaviour we have to implement again as soon as we create the generic Http Runner packages that will boot the framework inside wp.
